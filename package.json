@@ -1,0 +1,24 @@
+{
+    "name": "gamocda",
+    "version": "1.0.0",
+    "description": "chemi exam",
+    "main": "test.js",
+    "scripts": {
+      "build": "webpack --config webpack.config.js --watch"
+    },
+    "author": "gepeishniki",
+    "license": "MIT",
+    "dependencies": {
+      "babel": "^6.23.0",
+      "babel-cli": "^6.26.0",
+      "babel-core": "^6.26.3",
+      "babel-loader": "^8.0.6",
+      "webpack": "^4.41.5",
+      "webpack-cli": "^3.3.10"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.8.3",
+      "@babel/preset-env": "^7.8.3"
+    }
+  }
+  
